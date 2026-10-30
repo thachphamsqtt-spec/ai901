@@ -1,0 +1,7 @@
+# Từ điển gốc tải về (25 MB) — scripts/build_dictionary.py tự tải lại khi cần
+data/dict-src/
+__pycache__/
+*.pyc
+.vercel/
+.DS_Store
+Thumbs.db
